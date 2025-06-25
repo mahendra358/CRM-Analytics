@@ -18,3 +18,6 @@ Also, many opportunities were getting lost in early stages like Funnel or Qualif
 I highlighted these points in my report and added drill-down filters so that the team could easily check by year, source, and stage.
 
 Conclusion: After building the dashboards, it became much easier to track performance, focus on high-performing sources, and improve the sales follow-up process. This project helped me learn how data can solve real business problems.
+
+![image](https://github.com/user-attachments/assets/d7c63342-4f61-41f6-a49a-e2d5959acbb4)
+![image](https://github.com/user-attachments/assets/a50c6ecf-2caa-46ff-bb3b-9ebb820c6935)
